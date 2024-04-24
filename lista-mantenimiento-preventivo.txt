@@ -1,0 +1,27 @@
+# Lista
+- Revision de lices
+    - Direccionales
+    - Luz de stop
+    - Luz de placa (opcional)
+    - Luz frontal (cuartos, medias, y altas)
+- Fuga de liquidos
+    - Aceite
+    - Gasolina
+    - Refrigerante
+- Cambio de Aceite
+- Limpieza de filtro de aceite (opcional)
+- Limpieza / cambio de filtro de aire
+- Revision de sistema de frenos
+    - Desgaste de balatas / zapatas
+    - Nivel y calidad de liquido de frenos
+- Lubricacion y ajuste de kit de arrastre
+- Ajuste de tornilleria
+- Lubricacion de partes moviles
+- Revision de componentes de direccion
+- Revision de llantas
+- Revisar soportes de motor
+- Lubricacion de chicotes
+
+# To-do list
+- create a proper webpage with html
+- create a word document to use as a template (print and fill)
