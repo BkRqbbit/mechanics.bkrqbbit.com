@@ -21,6 +21,9 @@
 - Revision de llantas
 - Revisar soportes de motor
 - Lubricacion de chicotes
+- Revision de mangueras de combustible
+- Lavado de carburador
+- Ajuste de punterias
 
 # To-do list
 - create a proper webpage with html
