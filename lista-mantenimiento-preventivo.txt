@@ -24,6 +24,8 @@
 - Revision de mangueras de combustible
 - Lavado de carburador
 - Ajuste de punterias
+- Lavado de motocicleta
+- Lubricacion de mandos y llave
 
 # To-do list
 - create a proper webpage with html
