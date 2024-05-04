@@ -28,6 +28,7 @@
 - Lubricacion de mandos y llave
 - Prueba de lubricacion en punterias
 - Revision de bujia
+- Revision de nivel de aceite
 
 # To-do list
 - create a proper webpage with html
