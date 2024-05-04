@@ -21,6 +21,7 @@
 - Revision de llantas
 - Revisar soportes de motor
 - Lubricacion de chicotes
+- Ajuste de chicotes
 - Revision de mangueras de combustible
 - Lavado de carburador
 - Ajuste de punterias
