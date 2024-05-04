@@ -27,6 +27,7 @@
 - Lavado de motocicleta
 - Lubricacion de mandos y llave
 - Prueba de lubricacion en punterias
+- Revision de bujia
 
 # To-do list
 - create a proper webpage with html
