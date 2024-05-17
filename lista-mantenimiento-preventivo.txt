@@ -27,6 +27,7 @@
 - Ajuste de punterias
 - Lavado de motocicleta
 - Lubricacion de mandos y llave
+- Lubricacion de chapas (llave)
 - Prueba de lubricacion en punterias
 - Revision de bujia
 - Revision de nivel de aceite
